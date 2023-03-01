@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Maria 😄
+<div>👩‍💻 See My<a href="https://www.maria-dakir.codes"> Portfolio</a></div>
+<div>📫 How to reach me:<a href="https://www.linkedin.com/in/maria-dakir-47ba83193/"> Via my LinkedIn </a> Or send me an email : mariadakircodes@gmail.com  </div>
 
 <!--
 **dakirmaria/dakirmaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
