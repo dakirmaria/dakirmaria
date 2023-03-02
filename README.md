@@ -4,7 +4,7 @@
 <p align="left">
   Hi👋 I'm Maria, A software engineering student passionate about Web development and technologies. Continuously learning anything has an impact on engineering! I enjoy building new apps!<br>
   Welcome to my coding journey ⭐ !
- <br>📫 Feel free to connect me mariadakircodes@gmail.com
+ <br>📫 Feel free to contact me mariadakircodes@gmail.com
  <br>👩‍💻 See My<a href="https://www.maria-dakir.codes"> Portfolio</a>
 
   </p>
