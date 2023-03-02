@@ -1,10 +1,14 @@
 
 [![MasterHead](https://res.cloudinary.com/dgmlvkqyx/image/upload/v1677744494/banner_1_oomdye.png)](https://github.com/dakirmaria)
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
   Hi👋 I'm Maria, A software engineering student passionate about Web development and technologies. Continuously learning anything has an impact on engineering! I enjoy building new apps!<br>
   Welcome to my coding journey ⭐ !
+ <br>📫 Feel free to connect me mariadakircodes@gmail.com
+ <br>👩‍💻 See My<a href="https://www.maria-dakir.codes"> Portfolio</a>
+
   </p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/maria-dakir-47ba83193/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="" height="30" width="40" /></a>
