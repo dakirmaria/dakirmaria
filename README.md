@@ -28,7 +28,7 @@
 <h3 align="left">Stats:</h3>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=dakirmaria&show_icons=true&theme=midnight-purple"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dakirmaria&show_icons=true&theme=midnight-purple"
   media="(prefers-color-scheme: dark)"
 />
 
